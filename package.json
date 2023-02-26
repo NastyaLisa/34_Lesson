@@ -1,0 +1,15 @@
+{
+  "name": "34_lesson",
+  "version": "1.0.0",
+  "description": "1. Модули, директивы export, import\r 2. Node.js\r 3. npm\r 4. bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
